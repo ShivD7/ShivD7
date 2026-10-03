@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Shiv Desai</title>
+<desc id="desc">AI, web applications, and algorithms. A navy banner with mint and blue branching paths.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#07101e"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#78efcb"/><stop offset="1" stop-color="#7b9fff"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#20324b" stroke-width=".6"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+<rect x="670" width="530" height="320" fill="url(#grid)" opacity=".6"/>
+<path d="M0 2H1200" stroke="url(#line)" stroke-width="4"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="62" y="70" fill="#78efcb" font-size="14" font-weight="600" letter-spacing="3">SHIVD7 / BUILDING &amp; EXPLORING</text>
+<text x="58" y="156" fill="#f1f5fb" font-size="66" font-weight="700" letter-spacing="-2">Shiv Desai</text>
+<text x="62" y="207" fill="#c1cedf" font-size="23">AI, web applications, and algorithms.</text>
+<text x="62" y="263" fill="#8295b0" font-size="15" letter-spacing="1">CURIOSITY → CODE → CREATION</text>
+</g>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".75">
+<path d="M790 165H855L917 92H1064"/>
+<path d="M855 165H1000L1050 216H1140"/>
+<path d="M917 92V48H990"/>
+<path d="M1000 165L1050 125H1140"/>
+<path d="M855 165L917 248H1030"/>
+</g>
+<g fill="#0b1627" stroke="#78efcb" stroke-width="2">
+<circle cx="790" cy="165" r="10"/><circle cx="855" cy="165" r="6"/>
+<circle cx="917" cy="92" r="7"/><circle cx="1064" cy="92" r="9"/>
+<circle cx="1000" cy="165" r="7"/><circle cx="1030" cy="248" r="7"/>
+</g>
+<g fill="#819fff"><circle cx="990" cy="48" r="4"/><circle cx="1140" cy="216" r="5"/><circle cx="1140" cy="125" r="5"/></g>
+</svg>
